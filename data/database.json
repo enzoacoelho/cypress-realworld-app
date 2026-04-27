@@ -74,6 +74,17 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "bfMUkzgGI",
+      "uuid": "0094a7ea-bd52-4ce7-b0a7-d8fea54935fb",
+      "firstName": "Stephen",
+      "lastName": "King",
+      "username": "steph3nk1ng",
+      "password": "$2a$10$zXDPgvSRSp/Xnmv5IUbPie7TSVXOHFYQPm5g2jWuP42pR36/x1ZDi",
+      "balance": 0,
+      "createdAt": "2026-04-27T17:48:31.162Z",
+      "modifiedAt": "2026-04-27T17:48:31.162Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "rtP6sgDex",
+      "uuid": "d7925786-8b88-42f3-90e1-f74ad219079b",
+      "userId": "bfMUkzgGI",
+      "bankName": "Derry",
+      "accountNumber": "666666666",
+      "routingNumber": "666666666",
+      "isDeleted": false,
+      "createdAt": "2026-04-27T17:50:45.186Z",
+      "modifiedAt": "2026-04-27T17:50:45.186Z"
     }
   ],
   "transactions": [
